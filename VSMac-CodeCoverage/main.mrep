@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Addin>
+    <Url>CodeCoverage-v2.0.1-alpha.mpack</Url>
+    <Addin>
+      <Id>Code Coverage</Id>
+      <Namespace>CodeCoverage</Namespace>
+      <Name>Code Coverage</Name>
+      <Version>2.0.1-alpha</Version>
+      <BaseVersion />
+      <Author>Arthur Demanuele</Author>
+      <Copyright>Arthur Demanuele</Copyright>
+      <Url>https://github.com/ademanuele/VSMac-CodeCoverage</Url>
+      <Description>A code coverage extension for Visual Studio for Mac.
+
+by Arthur Demanuele</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="Name">Code Coverage</Property>
+        <Property name="Description">A code coverage extension for Visual Studio for Mac.
+
+by Arthur Demanuele</Property>
+        <Property name="Author">Arthur Demanuele</Property>
+        <Property name="Copyright">Arthur Demanuele</Property>
+        <Property name="Url">https://github.com/ademanuele/VSMac-CodeCoverage</Property>
+        <Property name="UpdateRank">Normal</Property>
+        <Property name="DownloadSize">165990</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
