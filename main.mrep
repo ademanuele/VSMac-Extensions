@@ -2,7 +2,10 @@
 <Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Repository>
     <Url>VSMac-CodeCoverage/main.mrep</Url>
-    <LastModified>2020-04-12T20:48:57.2929385+02:00</LastModified>
+    <LastModified>2020-04-13T19:01:26.1374758+02:00</LastModified>
   </Repository>
-  <Name>Visual Studio Extensions - Arthur Demanuele</Name>
+  <Repository>
+    <Url>VSMac-CodeDistribution/main.mrep</Url>
+    <LastModified>2020-04-13T19:01:26.1517813+02:00</LastModified>
+  </Repository>
 </Repository>

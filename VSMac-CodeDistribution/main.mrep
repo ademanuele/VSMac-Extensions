@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Addin>
+    <Url>CodeDistribution.Pad-v1.1.mpack</Url>
+    <Addin>
+      <Id>CodeDistribution.Pad</Id>
+      <Namespace>CodeDistribution.Pad</Namespace>
+      <Name>Code Distribution Extension</Name>
+      <Version>1.1</Version>
+      <BaseVersion />
+      <Author>Arthur Demanuele</Author>
+      <Copyright>Arthur Demanuele</Copyright>
+      <Url>https://github.com/ademanuele/VSMac-CodeDistribution</Url>
+      <Description>Provides a new pad in Visual Studio for Mac that visualises how code is distributed amongst all the projects in your workspace.
+Particularly handy with Xamarin projects in order to see the proportion of shared code and platform-specific code.
+
+by Arthur Demanuele</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="Name">Code Distribution Extension</Property>
+        <Property name="Description">Provides a new pad in Visual Studio for Mac that visualises how code is distributed amongst all the projects in your workspace.
+Particularly handy with Xamarin projects in order to see the proportion of shared code and platform-specific code.
+
+by Arthur Demanuele</Property>
+        <Property name="Author">Arthur Demanuele</Property>
+        <Property name="Copyright">Arthur Demanuele</Property>
+        <Property name="Url">https://github.com/ademanuele/VSMac-CodeDistribution</Property>
+        <Property name="DownloadSize">72433</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
