@@ -150,4 +150,34 @@ by Arthur Demanuele</Property>
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>CodeCoverage-v2.0.1.mpack</Url>
+    <Addin>
+      <Id>Code Coverage</Id>
+      <Namespace>CodeCoverage</Namespace>
+      <Name>Code Coverage</Name>
+      <Version>2.0.1</Version>
+      <BaseVersion />
+      <Author>Arthur Demanuele</Author>
+      <Copyright>Arthur Demanuele</Copyright>
+      <Url>https://github.com/ademanuele/VSMac-CodeCoverage</Url>
+      <Description>A code coverage extension for Visual Studio for Mac.
+
+by Arthur Demanuele</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies />
+      <OptionalDependencies />
+      <Properties>
+        <Property name="Name">Code Coverage</Property>
+        <Property name="Description">A code coverage extension for Visual Studio for Mac.
+
+by Arthur Demanuele</Property>
+        <Property name="Author">Arthur Demanuele</Property>
+        <Property name="Copyright">Arthur Demanuele</Property>
+        <Property name="Url">https://github.com/ademanuele/VSMac-CodeCoverage</Property>
+        <Property name="UpdateRank">Normal</Property>
+        <Property name="DownloadSize">239015</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
